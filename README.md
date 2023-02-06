@@ -23,3 +23,4 @@ If you choose to clone this repository locally for any reason, please note that 
 
 # Contributions! 
 If you wish to help contribute, feel free to make a pull request! Try not to modify the folders included, as we may reject any additions not organized into a folder. As long as you create a new folder on the root, or create a folder inside the existing ones, we will happily take contributions!
+
